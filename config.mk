@@ -1,5 +1,5 @@
-# Copyright (C) 2017-2020 crDroid Android Project
-# Copyright (C) 2020 Project Sakura
+# Copyright (C) 2017-2024 crDroid Android Project
+# Copyright (C) 2024 Project Sakura
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
@@ -31,7 +31,12 @@ PRODUCT_PACKAGES += \
     GesturalNavigationOverlayHidden \
     GesturalNavigationOverlayHiddenNarrow
 
-#nexus/pixel sysconfigs
+# Font overlays
+PRODUCT_PACKAGES += \
+    ClockFontGoogleSansOverlay \
+    FontGoogleSansOverlay
+
+# nexus/pixel sysconfigs
 PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/dialer_experience.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/dialer_experience.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/google.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/google.xml \
@@ -52,3 +57,6 @@ PRODUCT_PACKAGES += \
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
+
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
