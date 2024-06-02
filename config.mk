@@ -40,13 +40,15 @@ PRODUCT_PACKAGES += \
     ClockFontNothingDotHeadlineOverlay \
     ClockFontOneplusSansOverlay \
     ClockFontRubikOverlay \
+    ClockFontSonySketchOverlay \
     fonts_customization.xml \
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
     FontOneplusSansOverlay \
-    FontRubikOverlay
+    FontRubikOverlay \
+    FontSonySketchOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \

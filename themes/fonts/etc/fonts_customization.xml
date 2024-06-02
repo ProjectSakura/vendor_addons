@@ -288,4 +288,11 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+
+    <!-- SonySketch -->
+    <family customizationType="new-named-family" name="sonysketch">
+        <font weight="300" style="normal">SonySketch.ttf</font>
+    </family>
+    <alias name="sonysketch-semi-bold" to="sonysketch" weight="600" />
+    <alias name="sonysketch-bold" to="sonysketch" weight="700" />
 </fonts-modification>
