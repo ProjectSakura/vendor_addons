@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
 # Fonts
 PRODUCT_PACKAGES += \
     ClockFontEvolveSansOverlay \
+    ClockFontFluidSansOverlay \
     ClockFontHarmonySansOverlay \
     ClockFontLatoOverlay \
     ClockFontNothingDotHeadlineOverlay \
@@ -45,6 +46,7 @@ PRODUCT_PACKAGES += \
     ClockFontSonySketchOverlay \
     fonts_customization.xml \
     FontEvolveSansOverlay \
+    FontFluidSansOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontNothingDotHeadlineOverlay \
