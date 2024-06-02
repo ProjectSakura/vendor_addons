@@ -35,7 +35,9 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
+    ClockFontHarmonySansOverlay \
     fonts_customization.xml \
+    FontHarmonySansOverlay \
     FontLatoOverlay \
     FontRubikOverlay
 
