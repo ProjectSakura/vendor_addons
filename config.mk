@@ -38,12 +38,14 @@ PRODUCT_PACKAGES += \
     ClockFontHarmonySansOverlay \
     ClockFontLatoOverlay \
     ClockFontNothingDotHeadlineOverlay \
+    ClockFontOneplusSansOverlay \
     ClockFontRubikOverlay \
     fonts_customization.xml \
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
+    FontOneplusSansOverlay \
     FontRubikOverlay
 
 # Icon Packs
