@@ -95,6 +95,13 @@ PRODUCT_PACKAGES += \
     IconPackXperiaSettingsOverlay \
     IconPackXperiaSystemUIOverlay
 
+# Include {Lato,Rubik} fonts
+$(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
+$(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
+
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
+
 # Navbar
 PRODUCT_PACKAGES += \
     GesturalNavigationOverlayLong \
@@ -102,7 +109,7 @@ PRODUCT_PACKAGES += \
     GesturalNavigationOverlayHidden \
     GesturalNavigationOverlayHiddenNarrow
 
-#nexus/pixel sysconfigs
+# Nexus/Pixel sysconfigs
 PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/dialer_experience.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/dialer_experience.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/google.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/google.xml \
@@ -115,6 +122,33 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/pixel_experience_2017.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_experience_2017.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/pixel_experience_2018.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_experience_2018.xml
 
+# Signal Icons
+PRODUCT_PACKAGES += \
+    BarsSignalOverlay \
+    ButterflySignalOverlay \
+    CircleSignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    EqualSignalOverlay \
+    FanSignalOverlay \
+    GradiconSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    NothingDotSignalOverlay \
+    OdinSignalOverlay \
+    RelSignalOverlay \
+    RomanSignalOverlay \
+    RoundSignalOverlay \
+    ScrollSignalOverlay \
+    SeaSignalOverlay \
+    StackSignalOverlay \
+    StrokeSignalOverlay \
+    WannuiSignalOverlay \
+    WavySignalOverlay \
+    WindowsSignalOverlay \
+    WingSignalOverlay \
+    XperiaSignalOverlay
+
 # Prebuilt packages
 PRODUCT_PACKAGES += \
     ViMusic \
@@ -124,9 +158,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
-# Include {Lato,Rubik} fonts
-$(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
-$(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
-
-PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
+# WiFi Icons
+PRODUCT_PACKAGES += \
+    BarsWiFiOverlay \
+    GradiconWiFiOverlay \
+    NothingDotWiFiOverlay \
+    RoundWiFiOverlay \
+    StrokeWiFiOverlay \
+    WavyWiFiOverlay \
+    XperiaWiFiOverlay \
+    ZigZagWiFiOverlay
