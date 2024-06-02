@@ -37,10 +37,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ClockFontHarmonySansOverlay \
     ClockFontLatoOverlay \
+    ClockFontNothingDotHeadlineOverlay \
     ClockFontRubikOverlay \
     fonts_customization.xml \
     FontHarmonySansOverlay \
     FontLatoOverlay \
+    FontNothingDotHeadlineOverlay \
+    FontNothingDotOverlay \
     FontRubikOverlay
 
 # Icon Packs
