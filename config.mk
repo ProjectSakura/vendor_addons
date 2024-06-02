@@ -40,6 +40,7 @@ PRODUCT_PACKAGES += \
     ClockFontLatoOverlay \
     ClockFontNothingDotHeadlineOverlay \
     ClockFontOneplusSansOverlay \
+    ClockFontRobotoCondensedOverlay \
     ClockFontRubikOverlay \
     ClockFontSonySketchOverlay \
     fonts_customization.xml \
@@ -49,6 +50,7 @@ PRODUCT_PACKAGES += \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
     FontOneplusSansOverlay \
+    FontRobotoCondensedOverlay \
     FontRubikOverlay \
     FontSonySketchOverlay
 
