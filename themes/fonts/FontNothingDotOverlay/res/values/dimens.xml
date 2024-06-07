@@ -1,6 +1,6 @@
 <!--
 /**
- * Copyright (c) 2019-2022, crDroid Android Project
+ * Copyright (c) 2023 Project Sakura
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 -->
-<resources>
-    <!-- Huawei HarmonyOS Sans overlay -->
-    <string name="font_harmonyos_sans_overlay" translatable="false">HarmonyOS Sans</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Default line spacing multiplier between hours and minutes of the keyguard clock -->
+    <item name="keyguard_clock_line_spacing_scale" type="dimen" format="float">.9</item>
 </resources>

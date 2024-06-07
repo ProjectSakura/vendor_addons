@@ -35,15 +35,6 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    ClockFontEvolveSansOverlay \
-    ClockFontFluidSansOverlay \
-    ClockFontHarmonySansOverlay \
-    ClockFontLatoOverlay \
-    ClockFontNothingDotHeadlineOverlay \
-    ClockFontOneplusSansOverlay \
-    ClockFontRobotoCondensedOverlay \
-    ClockFontRubikOverlay \
-    ClockFontSonySketchOverlay \
     fonts_customization.xml \
     FontEvolveSansOverlay \
     FontFluidSansOverlay \
