@@ -40,7 +40,6 @@ PRODUCT_PACKAGES += \
     FontFluidSansOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
-    FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
     FontOneplusSansOverlay \
     FontRobotoCondensedOverlay \
