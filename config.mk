@@ -53,16 +53,6 @@ PRODUCT_PACKAGES += \
     IconPackCircularSettingsOverlay \
     IconPackCircularSystemUIOverlay \
     IconPackCircularThemePickerOverlay \
-    IconPackVictorAndroidOverlay \
-    IconPackVictorLauncherOverlay \
-    IconPackVictorSettingsOverlay \
-    IconPackVictorSystemUIOverlay \
-    IconPackVictorThemePickerOverlay \
-    IconPackSamAndroidOverlay \
-    IconPackSamLauncherOverlay \
-    IconPackSamSettingsOverlay \
-    IconPackSamSystemUIOverlay \
-    IconPackSamThemePickerOverlay \
     IconPackKaiAndroidOverlay \
     IconPackKaiLauncherOverlay \
     IconPackKaiSettingsOverlay \
@@ -73,11 +63,6 @@ PRODUCT_PACKAGES += \
     IconPackFilledSettingsOverlay \
     IconPackFilledSystemUIOverlay \
     IconPackFilledThemePickerOverlay \
-    IconPackPUIAndroidOverlay \
-    IconPackPUILauncherOverlay \
-    IconPackPUISettingsOverlay \
-    IconPackPUISystemUIOverlay \
-    IconPackPUIThemePickerOverlay \
     IconPackRoundedAndroidOverlay \
     IconPackRoundedLauncherOverlay \
     IconPackRoundedSettingsOverlay \
@@ -92,10 +77,6 @@ PRODUCT_PACKAGES += \
     IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
     IconPackOutlineSystemUIOverlay \
-    IconPackAcherusAndroidOverlay \
-    IconPackAcherusLauncherOverlay \
-    IconPackAcherusSettingsOverlay \
-    IconPackAcherusSystemUIOverlay \
     IconPackGradiconAndroidOverlay \
     IconPackGradiconSystemUIOverlay \
     IconPackXperiaAndroidOverlay \
@@ -105,8 +86,6 @@ PRODUCT_PACKAGES += \
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
-    IconShapeFlowerOverlay \
-    IconShapeLeafOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
@@ -141,37 +120,21 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/pixel_experience_2017.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_experience_2017.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/pixel_experience_2018.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_experience_2018.xml
 
-# Signal Icons
-PRODUCT_PACKAGES += \
-    BarsSignalOverlay \
-    ButterflySignalOverlay \
-    CircleSignalOverlay \
-    DaunSignalOverlay \
-    DecSignalOverlay \
-    EqualSignalOverlay \
-    FanSignalOverlay \
-    GradiconSignalOverlay \
-    IosSignalOverlay \
-    MiniSignalOverlay \
-    NothingDotSignalOverlay \
-    OdinSignalOverlay \
-    RelSignalOverlay \
-    RomanSignalOverlay \
-    RoundSignalOverlay \
-    ScrollSignalOverlay \
-    SeaSignalOverlay \
-    StackSignalOverlay \
-    StrokeSignalOverlay \
-    WannuiSignalOverlay \
-    WavySignalOverlay \
-    WindowsSignalOverlay \
-    WingSignalOverlay \
-    XperiaSignalOverlay
-
 # Prebuilt packages
 PRODUCT_PACKAGES += \
     ViMusic \
     ViaBrowser
+
+# Signal Icons
+PRODUCT_PACKAGES += \
+    BarsSignalOverlay \
+    GradiconSignalOverlay \
+    IosSignalOverlay \
+    NothingDotSignalOverlay \
+    StrokeSignalOverlay \
+    WannuiSignalOverlay \
+    WavySignalOverlay \
+    XperiaSignalOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
