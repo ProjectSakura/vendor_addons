@@ -14,6 +14,8 @@
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
+PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
+
 #ifeq ($(EXTRA_FOD_ANIMATIONS),true)
 #PRODUCT_PACKAGES += \
 #    FodAnimations
