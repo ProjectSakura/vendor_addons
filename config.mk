@@ -26,15 +26,19 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 #PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/fod-icons
 #endif
 
-# Clocks
+# SystemUI Clocks
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \
     SystemUIClocks-Flex \
-    ClockFontSamsungOneOverlay \
     SystemUIClocks-Inflate \
     SystemUIClocks-NumOverlap \
     SystemUIClocks-Weather
+
+# Clock Font
+PRODUCT_PACKAGES += \
+    ClockFontSamsungOneOverlay \
+    ClockFontIOSOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
@@ -95,6 +99,7 @@ PRODUCT_PACKAGES += \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
+    IconShapeIosOverlay \
     IconShapeTeardropOverlay
 
 # Include {Lato,Rubik} fonts
