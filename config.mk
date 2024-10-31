@@ -16,6 +16,12 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 
+ifeq ($(TARGET_HAS_UDFPS),true)
+PRODUCT_PACKAGES += \
+    UdfpsIcons \
+    UdfpsAnimations
+endif
+
 #ifeq ($(EXTRA_FOD_ANIMATIONS),true)
 #PRODUCT_PACKAGES += \
 #    FodAnimations
