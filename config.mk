@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \
     SystemUIClocks-Flex \
+    ClockFontSamsungOneOverlay \
     SystemUIClocks-Inflate \
     SystemUIClocks-NumOverlap \
     SystemUIClocks-Weather
@@ -39,6 +40,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
     FontEvolveSansOverlay \
+    FontSamsungOneOverlay \
     FontFluidSansOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
