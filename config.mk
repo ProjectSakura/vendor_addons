@@ -132,7 +132,6 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt packages
 PRODUCT_PACKAGES += \
-    ViMusic \
     ViaBrowser
 
 # Signal Icons
