@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2025 crDroid Android Project
+# Copyright (C) 2017-2025 ProjectSakura Android Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -55,10 +55,6 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Inflate \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap
-
-# Custom Overlays
-PRODUCT_PACKAGES += \
-    PixelLauncherOverlayCustom
 
 # Fonts
 PRODUCT_PACKAGES += \
@@ -118,6 +114,7 @@ PRODUCT_PACKAGES += \
     ClockFontNeonDiscoOverlay \
     ClockFontNinjasOverlay \
     ClockFontNokiaPureOverlay \
+    ClockFontNothingDotHeadlineOverlay \
     ClockFontNunitoOverlay \
     ClockFontOneplusSansOverlay \
     ClockFontOneplusSlateOverlay \
@@ -167,7 +164,6 @@ PRODUCT_PACKAGES += \
     FontGrandHotelOverlay \
     FontGoogleSansFlexOverlay \
     FontHarmonySansOverlay \
-    FontIBMPlexSansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
     FontNokiaPureOverlay \
