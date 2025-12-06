@@ -55,6 +55,10 @@ PRODUCT_PACKAGES += \
 
 # Custom Overlays
 PRODUCT_PACKAGES += \
+    GlanceableHubConfigOverlay \
+    GlanceableHubSettingsConfigOverlay \
+    GlanceableHubSettingsConfigOverlay2022 \
+    GlanceableHubSysuiConfigOverlay \
     PixelLauncherOverlayCustom
 
 # Fonts
