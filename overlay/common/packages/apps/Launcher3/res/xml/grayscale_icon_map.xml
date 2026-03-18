@@ -5262,7 +5262,6 @@
     <icon drawable="@drawable/mi_home" package="com.xiaomi.smarthome.tv.global4" />
     <icon drawable="@drawable/mi_home" package="com.xiaomi.smarthomv" />
     <icon drawable="@drawable/mi_mover" package="com.miui.huanji" />
-    <icon drawable="@drawable/mi_music" package="com.crdroid.music" />
     <icon drawable="@drawable/mi_music" package="com.martinmimigames.littlemusicplayer" />
     <icon drawable="@drawable/mi_music" package="com.miui.player" />
     <icon drawable="@drawable/mi_music" package="com.nomad88.nomadmusic" />
