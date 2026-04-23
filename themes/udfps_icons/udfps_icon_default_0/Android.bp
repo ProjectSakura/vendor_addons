@@ -1,0 +1,7 @@
+runtime_resource_overlay {
+    name: "UdfpsIconThemeUdfpsIconDefault0",
+    sdk_version: "current",
+    resource_dirs: ["res"],
+    product_specific: true,
+    certificate: "platform",
+}
