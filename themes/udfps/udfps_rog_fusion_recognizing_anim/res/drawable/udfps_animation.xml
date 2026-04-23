@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animation-list xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:oneshot="false">
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_01" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_02" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_03" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_04" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_05" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_06" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_07" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_08" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_09" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_10" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_11" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_12" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_13" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_14" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_15" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_1_16" ns0:duration="6" />
+</animation-list>

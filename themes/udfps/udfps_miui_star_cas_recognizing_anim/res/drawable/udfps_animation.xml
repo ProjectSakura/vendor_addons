@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animation-list xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:oneshot="false">
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_1" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_2" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_3" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_4" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_5" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_6" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_7" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_8" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_9" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_10" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_11" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_12" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_13" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_14" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_15" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_16" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_17" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_18" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_19" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_20" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_21" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_22" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_23" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_24" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_25" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_26" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_27" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_28" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_29" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_30" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_31" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_32" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_33" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_34" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_35" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_36" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_37" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_38" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_39" />
+    <item ns0:duration="6" ns0:drawable="@drawable/gxzw_star_cas_recognizing_anim_40" />
+</animation-list>

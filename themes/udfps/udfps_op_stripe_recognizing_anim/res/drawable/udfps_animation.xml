@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animation-list xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:oneshot="false">
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_00" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_01" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_02" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_03" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_04" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_05" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_06" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_07" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_08" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_09" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_10" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_11" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_12" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_13" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_14" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_15" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_16" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_17" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_18" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_19" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_20" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_21" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_22" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_23" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_24" ns0:duration="6" />
+    <item ns0:drawable="@drawable/udfps_op_stripe_anim_25" ns0:duration="6" />
+</animation-list>

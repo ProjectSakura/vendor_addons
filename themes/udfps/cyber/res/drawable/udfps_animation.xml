@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animation-list xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:oneshot="false">
+    <item ns0:drawable="@drawable/cyber_anim_0" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_1" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_2" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_3" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_4" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_5" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_6" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_7" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_8" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_9" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_10" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_11" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_12" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_13" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_14" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_15" ns0:duration="6" />
+    <item ns0:drawable="@drawable/cyber_anim_16" ns0:duration="6" />
+</animation-list>

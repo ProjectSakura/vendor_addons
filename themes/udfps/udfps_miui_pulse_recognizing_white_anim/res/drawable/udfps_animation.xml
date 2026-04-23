@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animation-list xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:oneshot="false">
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_1" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_2" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_3" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_4" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_5" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_6" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_7" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_8" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_9" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_10" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_11" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_12" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_13" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_14" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_15" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_16" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_17" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_18" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_19" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_20" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_21" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_22" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_23" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_24" ns0:duration="12" />
+    <item ns0:drawable="@drawable/gxzw_pulse_recognizing_anim_white_25" ns0:duration="12" />
+</animation-list>

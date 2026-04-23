@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animation-list xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:oneshot="false">
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_00" ns0:duration="6" />    
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_01" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_02" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_03" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_04" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_05" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_06" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_07" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_08" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_09" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_10" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_11" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_12" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_13" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_14" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_15" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_16" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_17" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_18" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_19" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_20" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_21" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_22" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_23" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_24" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_25" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_26" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_27" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_28" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_29" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_30" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_31" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_32" ns0:duration="6" />
+    <item ns0:drawable="@drawable/asus_udfps_anim_3_33" ns0:duration="6" />
+</animation-list>
