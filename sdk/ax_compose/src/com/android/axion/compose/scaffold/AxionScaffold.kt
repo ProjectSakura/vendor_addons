@@ -176,16 +176,11 @@ fun AxionPinnedTopAppBar(
 fun AxionLargeTopAppBar(
     title: String,
     scrollBehavior: TopAppBarScrollBehavior,
-<<<<<<< HEAD
     modifier: Modifier = Modifier,
     collapsedByDefault: Boolean = false,
     containerColor: Color = MaterialTheme.colorScheme.surfaceContainer,
     navigationIcon: @Composable () -> Unit = {},
     titleContent: (@Composable () -> Unit)? = null,
-=======
-    collapsedByDefault: Boolean,
-    containerColor: Color,
->>>>>>> e3083844 (ax_compose: Adding ability to change scaffold color)
     actions: @Composable RowScope.() -> Unit = {},
 ) {
     val colors = AxionTopAppBarColors(
