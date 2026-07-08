@@ -16,5 +16,5 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.crdroid.utils">
+    package="com.android.sakura.utils">
 </manifest>
